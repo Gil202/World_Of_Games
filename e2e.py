@@ -23,3 +23,6 @@ def main_function():
         return sys.exit(0)
     else:
         return sys.exit(-1)
+
+    
+main_function()
